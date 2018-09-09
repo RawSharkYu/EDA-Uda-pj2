@@ -1,2 +1,2 @@
-# EDA-uda-da-pj2
-Using R language to explore and summarize data. Udacity DA nano program, project 2.
+Using data from  https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv.
+Using R language to do EDA in this Data.
